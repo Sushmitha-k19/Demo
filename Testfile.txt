@@ -1,0 +1,1 @@
+This file is to test how to add local file to git repository
